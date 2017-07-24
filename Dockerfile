@@ -1,4 +1,4 @@
-FROM node:6.11
+FROM node:8.2
 
 MAINTAINER Erwin Steffens <esteffens@rovecom.nl>
 
